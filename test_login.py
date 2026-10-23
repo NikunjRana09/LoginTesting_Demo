@@ -16,3 +16,5 @@ if __name__ == "__main__":
     test_valid_login()
     test_invalid_login()
     print("All login tests passed!")
+
+print("Login test execution completed.")
